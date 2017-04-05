@@ -1,5 +1,5 @@
 {
-  "replyToken": "nHuyWiB7yP5Zw52FIkcQobQuGDXCTA",
+  "replyToken": "hi",
   "type": "message",
   "timestamp": 1462629479859,
   "source": {
@@ -9,6 +9,6 @@
   "message": {
     "id": "325708",
     "type": "text",
-    "text": "Hello, world"
+    "text": "Good morning"
   }
 }
